@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import filewordscounter.*;
-
+/** the main class**/
 public class MainClass 
 {
 
